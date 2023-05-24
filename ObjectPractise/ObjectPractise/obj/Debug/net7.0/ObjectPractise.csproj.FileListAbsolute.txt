@@ -1,0 +1,15 @@
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\obj\Debug\net7.0\ObjectPractise.csproj.AssemblyReference.cache
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\obj\Debug\net7.0\ObjectPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\obj\Debug\net7.0\ObjectPractise.AssemblyInfoInputs.cache
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\obj\Debug\net7.0\ObjectPractise.AssemblyInfo.cs
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\obj\Debug\net7.0\ObjectPractise.csproj.CoreCompileInputs.cache
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\bin\Debug\net7.0\ObjectPractise.exe
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\bin\Debug\net7.0\ObjectPractise.deps.json
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\bin\Debug\net7.0\ObjectPractise.runtimeconfig.json
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\bin\Debug\net7.0\ObjectPractise.dll
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\bin\Debug\net7.0\ObjectPractise.pdb
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\obj\Debug\net7.0\ObjectPractise.dll
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\obj\Debug\net7.0\refint\ObjectPractise.dll
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\obj\Debug\net7.0\ObjectPractise.pdb
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\obj\Debug\net7.0\ObjectPractise.genruntimeconfig.cache
+C:\Users\lavanya-pt6683\source\repos\ObjectPractise\ObjectPractise\obj\Debug\net7.0\ref\ObjectPractise.dll
