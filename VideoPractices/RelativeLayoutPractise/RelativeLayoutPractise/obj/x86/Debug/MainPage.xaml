@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="RelativeLayoutPractise.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RelativeLayoutPractise"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <RelativePanel>
+            <Rectangle x:ConnectionId='2' x:Name="Rect"
+                       Fill="Blue"
+                       Height="100"
+                       Width="100"
+                       RelativePanel.AlignRightWithPanel="True"/>
+            <Rectangle x:ConnectionId='3' x:Name="Rect2"
+                       Fill="Red"
+                       Height="100"
+                       Width="100"
+                       RelativePanel.Below="Rect"/>
+        </RelativePanel>
+    </Grid>
+</Page>
+
